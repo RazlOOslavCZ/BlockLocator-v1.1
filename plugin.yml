@@ -1,0 +1,8 @@
+name: BlockLocator
+main: mc.RazlOOslavCZ.BlockLocator.BlockLocator
+author: RazlOOslavCZ
+version: 1.1
+commands:
+  blocklocator:
+    description: information of plugin
+    aliases: bl

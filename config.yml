@@ -1,0 +1,20 @@
+#########################################################
+#                                                       #
+#         THIS PLUGIN IS FREE TO USE                    #
+#         AUTHOR: RAZLOOSLAVCZ                          #
+#                                                       #
+#                                                       #
+#         USE THE DIAMOND AND CLICK RIGHT ON THE        #
+#         BLOCK TO SEE THE BLOCK COORDINATES            #
+#                                                       #
+#                                                       #
+#                THANKS FOR DOWNLOAD! :)                # 
+#                                                       #
+#########################################################
+
+#this set the message in chat.
+message: "&7coordinate of block: &e"
+blockmessage: "&7You clicked on a block: &e"
+
+#this sets the prefix before the text.
+prefix: "&8[&4BlockLocator&8] "
